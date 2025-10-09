@@ -1,0 +1,25 @@
+title: Bilingual Academic Site
+description: Minimal bilingual academic homepage (中文/English)
+url: ""
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# default permalink style
+permalink: pretty
+
+# Custom vars
+languages: ["zh", "en"]
+default_lang: "zh"
+author:
+  name: 崔靖涵 (Jinghan Cui)
+  email: your_email@example.com
+  affiliation_zh: 吉林大学 · 副教授
+  affiliation_en: Associate Professor · Jilin University
+  scholar: https://scholar.google.com/
+  orcid: https://orcid.org/
+
+# Build settings
+markdown: kramdown
