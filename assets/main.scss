@@ -1,0 +1,90 @@
+---
+---
+
+@import "minima";
+
+/* ====== 全站统一美化，覆盖默认样式 ====== */
+
+/* 全局基础字体 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+               Arial, "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #222;
+}
+
+/* 顶部大标题（页面标题） */
+.page-heading,
+.post-title,
+h1 {
+  font-size: 2.0rem;
+  margin-top: 0;
+  margin-bottom: 1.0rem;
+  font-weight: 650;
+}
+
+/* 二级标题：用在 People 里的“2025级硕士研究生”等 */
+h2 {
+  font-size: 1.35rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+}
+
+/* 三级标题（如果以后用到） */
+h3 {
+  font-size: 1.1rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+}
+
+/* 段落和列表的间距更紧凑一点 */
+p {
+  margin-top: 0.15rem;
+  margin-bottom: 0.6rem;
+}
+
+ul,
+ol {
+  margin-top: 0.15rem;
+  margin-bottom: 0.8rem;
+}
+
+/* 列表项之间稍微拉开一点 */
+li {
+  margin-bottom: 0.25rem;
+}
+
+/* 表格字体略小、行距稍紧（如果以后用表格的话） */
+table {
+  font-size: 0.95rem;
+}
+
+/* ====== People 页面用到的一些小样式（可选，但推荐保留） ====== */
+
+/* 一个学生块的外边距 */
+.student-block {
+  margin-left: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+
+/* 学生姓名样式 */
+.student-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+/* “研究方向 / 邮箱” 的小标题 */
+.student-info-label {
+  font-weight: 500;
+  color: #444;
+  margin-bottom: 0.2rem;
+}
+
+/* 研究方向、邮箱的正文 */
+.student-info {
+  margin-top: -0.2rem;
+  margin-bottom: 0.4rem;
+}
