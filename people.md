@@ -8,33 +8,30 @@ permalink: /people/
 
 ## 2025级硕士研究生
 
-- **张瀚升**
-
-  研究方向：基于学习的模型预测控制
-
-  邮箱：
+<div class="student-block">
+  <div class="student-name">张瀚升</div>
+  <div class="student-info-label">研究方向：</div>
+  <div class="student-info">基于学习的模型预测控制</div>
+  <div class="student-info-label">邮箱：</div>
+  <div class="student-info">（可补充）</div>
+</div>
 
 ## 2024级硕士研究生
 
-- **袁成志** 
+<div class="student-block">
+  <div class="student-name">袁成志</div>
+  <div class="student-info-label">研究方向：</div>
+  <div class="student-info">机械臂轨迹规划与运动控制</div>
+  <div class="student-info-label">邮箱：</div>
+  <div class="student-info">（可补充）</div>
+</div>
 
-  研究方向：机械臂轨迹规划与运动控制
-
-  邮箱：
-
-- **张嘉升** 
-
-  研究方向：构网型储能变流器稳定控制
-
-  邮箱： 
-
+---
 
 # 毕业学生
 
-To be updated.
+- 暂无
 
 # 科研合作者
 
-To be updated.
-
-
+- 暂无
