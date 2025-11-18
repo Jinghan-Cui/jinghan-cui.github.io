@@ -22,7 +22,7 @@ Intelligent Optimization & Control
 - 2015-2019：华北电力大学（北京），控制理论与控制工程，博士（导师：刘向杰教授）
 - 2010-2014：华北电力大学（北京），自动化 ，学士
 
-Email：<jinghan0614@gmail.com>  
+Email：<jinghan@jlu.edu.cn>  
 
 ---
 
