@@ -8,7 +8,7 @@ Intelligent Optimization & Control
 
 欢迎来到 **崔靖涵（Jinghan Cui）** 的学术主页。
 
-我主要从事 **智能优化控制、型模型预测控制、机器学习** 等方向的研究，应用背景包括 **电力生产过程、可再生能源系统、微电网、工业机械臂轨迹规划与运动控制** 等。
+我主要从事 **智能优化控制、模型预测控制、机器学习** 等方向的研究，应用背景包括 **电力生产过程、可再生能源系统、微电网、工业机械臂轨迹规划与运动控制** 等。
 
 ---
 
@@ -28,11 +28,14 @@ Email：<jinghan0614@gmail.com>
 
 ## Research Interests
 
-- Artificial intelligence for control and optimization  
-- Economic model predictive control (EMPC)  
-- Data-driven / learning-based MPC  
-- Renewable energy systems & energy optimal dispatching  
-- Intelligent mobile robots & multi-robot distributed control  
+- 基于学习的模型预测控制 
+- 经济模型预测控制
+- 网-算-控协同优化控制
+- 风力发电系统优化控制
+- 微电网优化调度
+- 构网型微电网负荷频率控制
+- 机械臂轨迹规划与优化控制
+- ......
 
 详情见：[Publications](publications.md) 和 [Projects](projects.md)。
 
@@ -40,9 +43,7 @@ Email：<jinghan0614@gmail.com>
 
 ## News  （示例，可按需更新）
 
-- 2020：论文 *“Deep-Neural-Network-Based Economic Model Predictive Control for Ultrasupercritical Power Plant”* 发表在 **IEEE Transactions on Industrial Informatics**。  
-- 2019–2021：在东北大学从事博士后研究，主持中国博士后科学基金特别资助项目。  
-- 2021–2023：主持国家自然科学基金青年项目，开展基于强化学习的经济型 MPC 研究。  
+- 2025.11.18：生成学术主页。  
 
 ---
 
@@ -50,5 +51,5 @@ Email：<jinghan0614@gmail.com>
 
 - [Publications](publications.md) – 论文发表  
 - [Projects](projects.md) – 在研/已结题项目  
-- [People](people.md) – 个人简介与合作者  
+- [People](people.md) – 合作成员  
 - [Courses](course.md) – 授课与教学  
