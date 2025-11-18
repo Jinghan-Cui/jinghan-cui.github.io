@@ -41,7 +41,7 @@ Email：<jinghan0614@gmail.com>
 
 ---
 
-## News  （示例，可按需更新）
+## News
 
 - 2025.11.18：生成学术主页。  
 
