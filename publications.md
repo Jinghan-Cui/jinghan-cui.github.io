@@ -14,7 +14,7 @@ Below is a list of my journal and conference publications organized in **reverse
 ## **2025**
 [1] **Cui Jinghan**, Gao Jinwu, Liu Xiangjie, Liu Yuqi, Yu Shuyou. A characterization method of terminal ingredients for nonlinear MPC using value-based reinforcement learning[J]. *Automatica*, 2026, 183: 112574. (中科研2区，控制理论顶刊)
 
-[2] **Cui Jinghan**, Hu Yunfeng, Li Zeying, Cui Jinghan*. An economic model predictive control strategy for EV-integrated microgrids considering battery degradation[J]. Energy, 2025: 138205. (中科研1区top)
+[2]Hu Yunfeng, Li Zeying, Cui Jinghan*. An economic model predictive control strategy for EV-integrated microgrids considering battery degradation[J]. Energy, 2025: 138205. (中科研1区top)
 
 [3]Hou Shengyan, Chen Hong, Liu Xuan, **Cui Jinghan**, Zhao Jing, Gao Jinwu. Hierarchical model predictive control for energy management and lifespan protection in fuel cell electric vehicles[J]. Energy, 2025, 319: 134968.
 
