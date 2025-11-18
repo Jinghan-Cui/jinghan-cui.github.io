@@ -4,42 +4,31 @@ title: People
 permalink: /people/
 ---
 
-# People
+# 在读学生
 
-## Principal Investigator
+## 2025级硕士研究生
 
-**Dr. Jinghan Cui (崔靖涵)**  
+- **张瀚升**
+  研究方向：基于学习的模型预测控制
+  邮箱：
 
-Postdoctoral Researcher  
-State Key Laboratory of Synthetical Automation for Process Industries  
-Northeastern University, Shenyang, China  
+## 2024级硕士研究生
 
-- Ph.D. – Control Theory and Control Engineering,  
-  North China Electric Power University, Beijing, China (2014–2019)  
-- B.Eng. – Automation,  
-  North China Electric Power University, Beijing, China (2010–2014)  
+- **袁成志** 
+  研究方向：机械臂轨迹规划与运动控制
+  邮箱：
 
-### Previous Positions
+- **张嘉升** 
+  研究方向：构网型储能变流器稳定控制
+  邮箱： 
 
-- Visiting Scholar, University of Alberta, Canada (2017–2018)  
-  - Research area: Economic MPC of wind energy conversion systems  
-- Postdoctoral Researcher, Northeastern University, Shenyang, China (2019–2021)  
 
-### Research Interests
-
-- Artificial intelligence and model predictive control  
-- Economic MPC and data-driven control  
-- Renewable energy systems and energy optimal dispatching  
-- Intelligent mobile robots and multi-robot distributed control  
-
----
-
-## Students and Collaborators
+# 毕业学生
 
 To be updated.
 
-(*当你有博士/硕士学生时，可以按如下格式添加：*)
+# 科研合作者
 
-- PhD Student – Name, topic, period  
-- Master Student – Name, topic, period  
+To be updated.
+
 
