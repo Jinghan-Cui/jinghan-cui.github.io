@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 智能优化控制
+title: Home
 ---
 
 # 智能优化控制  
