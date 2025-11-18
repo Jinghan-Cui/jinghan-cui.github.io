@@ -6,33 +6,9 @@ permalink: /projects/
 
 # Research Projects
 
-## Active / Recent Projects
-
-### Reinforcement Learning-based Economic Model Predictive Control and Its Application in Power Generation  
-**National Natural Science Foundation of China (NSFC), Project No. 62003079**  
-Role: Principal Investigator (PI)  
-Period: 2021–2023  
-
-- Develop reinforcement-learning-based economic MPC frameworks for power generation processes.  
-- Address uncertainty and performance trade-offs between economic optimality and closed-loop stability.  
-
----
-
-### Data-driven Economic Model Predictive Control of Power Production Generation  
-**China Postdoctoral Science Foundation, Special Support Funding (No. 2019TQ0054)**  
-Role: Principal Investigator (PI)  
-Period: 2019–2021  
-
-- Design data-driven EMPC schemes for power production processes.  
-- Improve economic performance while ensuring robustness and constraint satisfaction.  
-
----
-
-## Research Areas Supported by Projects
-
-- Economic MPC for power plants and boiler-turbine units  
-- MPC and EMPC for wind energy conversion systems  
-- AI-enhanced control of complex process industries  
-- Optimization and control for microgrids and renewable energy systems  
-
-(*You can在以后补充更多省部级/校级项目，或企业合作项目。*)
+1、国家自然科学基金面上项目62573210: 云-边协同的分布式学习模型预测控制及其在微电网中的应用，50万，2026-2029，主持
+2、吉林省自然科学基金面上项目20230101065JC：风力发电系统动态经济性能优化与实时控制方法研究，10万元，2023-2025，主持。
+3、青年科学基金项目（C类）[原青年科学基金项目] 62003079: 强化学习经济模型预测控制及其在电力生产中的应用, 24万, 2021-2023, 主持。
+4、中国博士后基金第一批特别资助(站前) 2019TQ0054: 大数据驱动下电力生产过程分级优化与经济模型预测控制, 18万, 2019-2021, 主持。
+5、国家自然科学基金区域创新发展联合基金重点项目U20A20189：大数据驱动的流程工业过程异常工况智能诊断与自愈控制，264万元，2021-2024，参与。
+6、国家自然科学基金国际(地区)合作与交流项目62161160338：面向工业大数据分析与产品质量异常追溯的机器学习方法研究，100万元，2022-2025，参与。
