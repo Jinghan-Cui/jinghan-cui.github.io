@@ -26,6 +26,14 @@ permalink: /people/
   <div class="student-info">（可补充）</div>
 </div>
 
+<div class="student-block">
+  <div class="student-name">张嘉升</div>
+  <div class="student-info-label">研究方向：</div>
+  <div class="student-info">构网型储能变流器稳定控制</div>
+  <div class="student-info-label">邮箱：</div>
+  <div class="student-info">（可补充）</div>
+</div>
+
 ---
 
 # 毕业学生
