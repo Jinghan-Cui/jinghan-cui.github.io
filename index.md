@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-<img src="/assets/img/me.jpg" alt="Jinghan Cui" width="200px" style="border-radius: 10px;">
-
 
 # 智能优化控制  
 Intelligent Optimization & Control
+
+<img src="/assets/img/me.jpg" alt="Jinghan Cui" width="200px" style="border-radius: 10px;">
 
 欢迎来到 **崔靖涵（Jinghan Cui）** 的学术主页。
 
