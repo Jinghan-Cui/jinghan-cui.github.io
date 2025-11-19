@@ -3,6 +3,11 @@ layout: home
 title: Home
 ---
 
+<p align="center">
+  <img src="/assets/img/me.jpg" width="220px" style="border-radius: 10px;">
+</p>
+
+
 # 智能优化控制  
 Intelligent Optimization & Control
 
